@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="solving-problems-using-search" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Solving Problems Using Search</title>
+<chapter xml:id="searching-for-solutions" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Searching for Solutions</title>
 
   <!-- include sections -->
   <section xml:id="sec-trees-and-graphs">
