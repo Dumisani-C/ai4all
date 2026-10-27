@@ -174,7 +174,12 @@
     <p>
         From 2010 to the present,
         <term>deep learning</term><idx>deep learning</idx>
-        and <term>big data</term><idx>big data</idx> have transformed AI. Affordable
+        and <term>big data</term><idx>big data</idx> have transformed AI.
+        Big data refers to collections of information so large, fast-growing,
+        or varied that traditional software cannot easily store or analyze them,
+        such as the billions of photos, messages, search queries, and sensor
+        readings created every day. These massive collections give AI systems
+        far more examples to learn from than ever before. Affordable
         graphics processing units (GPUs)<idx>graphics processing unit</idx>,
         originally developed for fast rendering needed by video games, made it practical to
         train increasingly complex neural networks using enormous amounts of
